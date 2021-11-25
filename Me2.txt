@@ -605,108 +605,6 @@ France 24,p5p://fccs.123178.top:9906/616564d400040306136fde623656c5e4
 半島電視,tvbus://4KnFZbsL7QU1wC8h6eLnZa7vSyKHg6yu3PLSHMR1tFg33NVXAX
 
 
-
-音樂體育,#genre#
-MTV,mitv://ns2.hellotvvod.com:9906/aad098bade95418a8046acceb0558aa3
-MTV Live,mitv://ns2.hellotvvod.com:9906/5b5d21a03d37495aac99f37ee515efab
-Mezzo Live,mitv://ns2.hellotvvod.com:9906/5a39267c43dd41b1821aef0622730115
-CLASSICA 古典樂,mitv://ns2.hellotvvod.com:9906/391c8cb09e224e84ab588144e0632a30
-CMusic,mitv://ns2.hellotvvod.com:9906/0914d00bdeb748778ea50ce5c008a18b
-MTV HD,tvbus://31mfwjxXeK2sUVMvLLB7SeuyB91K1dhw1wNNkegSCb1cN39MyX
-Classica HD古典音樂,p5p://fccs.123178.top:9906/60689dd9000cb8ae13487fd8feab0590.ts
-Mezzo Live,p5p://fccs.123178.top:9906/6044084c000d934609b339c4b9e633ef.ts
-法國時裝,p5p://fccs.123178.top:9906/6131917c000da76e1853ffa122f43950
-MTV綜合,p5p://fccs.123178.top:9906/604408e9000a103309b59e2621263caa.ts
-LUXE奢華頻道,p5p://fccs.123178.top:9906/60689d7b000b57f61347104e33aa1e24.ts
-韓國娛樂台KMTV,p5p://fccs.123178.top:9906/606bcab100003ef205c38d91720ec13b.ts
-tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
-MTV Live,p5p://fccs.123178.top:9906/60440af600097aa009bda0c8f60b1cae.ts	
-Channel V,p5p://fccs.123178.top:9906/607396f000059e490994da3ca99473b4.ts
-衛視音樂,p5p://fccs.123178.top:9906/6163e81300020e350da08bfaf7a3c756
-
-
-緯來育樂台,mitv://ns2.hellotvvod.com:9906/ed2847f9731a48e19afc2ba479a73939
-緯來體育台,mitv://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
-ELEVEN體育1台,mitv://ns2.hellotvvod.com:9906/0c9c4a9fc07c41bb8537828dd9162e81
-ELEVEN體育2台,mitv://ns2.hellotvvod.com:9906/a610acb66f3749bb953d78899b7205d2
-Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
-愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/db6bd5a732984d83a8fdb9d0536886c8
-愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/bc49344900a546d39b5083025db6243f
-愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/4f3f4387a8174b8f8aaed89e2901442c
-TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/57536d1b23f34f28bb4d8c065d2e67e5
-博斯高球,mitv://ns2.hellotvvod.com:9906/9eb73e0317034672b4e2bdb0d695387f
-博斯高球二台,mitv://ns2.hellotvvod.com:9906/c612218b5c0d4349a1b4049e89913c75
-博斯網球台,mitv://ns2.hellotvvod.com:9906/47176ac49fed4e74a62d30b037ce81d3
-博斯魅力網,mitv://ns2.hellotvvod.com:9906/8f1d2f23e9964ef6b99f7b7228c199dc
-博斯無限台,mitv://ns2.hellotvvod.com:9906/91e038793b5f45f194ab304ab843b741
-博斯無限二台,mitv://ns2.hellotvvod.com:9906/3367cde8bd924944b2b7bbbaef5be87e
-博斯運動,mitv://ns2.hellotvvod.com:9906/b57a5306d5da4dcea75af2d436968097
-智林體育台,mitv://ns2.hellotvvod.com:9906/8b30925a0d704bcd8286add181bafdb9
-博斯運動二台,mitv://ns2.hellotvvod.com:9906/d4f401d6d6e144dfbb8c944a41b15772
-CCTV5,mitv://ns2.hellotvvod.com:9906/f07ab39fdf354c7cb4a34fbaaa3659c7
-CCTV5+,mitv://ns2.hellotvvod.com:9906/7a3a7027352546228475d2691cce06d8
-魅力足球,mitv://ns2.hellotvvod.com:9906/1d8773c524fa4ff0a210dd82b5442327
-新視覺,mitv://ns2.hellotvvod.com:9906/9319abc926b54236ad6215e7132c9c11
-廣東體育,mitv://ns2.hellotvvod.com:9906/3faeeb40ba624e64bb63ded82e67a601
-Golf Channel Philippines,mitv://ns2.hellotvvod.com:9906/29bb74c6d52b42759e572b4470b20eee
-Astro Arena,mitv://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0
-Astro Arena 2,mitv://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b
-Astro SuperSport,mitv://ns2.hellotvvod.com:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
-Astro SuperSport 2,mitv://ns2.hellotvvod.com:9906/5aa28b0759774904a25d7fc12ea233a9
-Astro SuperSport 3,mitv://ns2.hellotvvod.com:9906/68067267b2734dd39032d08bf83db8f0
-Astro SuperSport 4,mitv://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0
-Astro SuperSport 5,mitv://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
-SPOTV,mitv://ns2.hellotvvod.com:9906/5dedc66ef44242819ee8bf88796a9101
-beIN Sports,mitv://ns2.hellotvvod.com:9906/2f0a1100d8724e7c8fe7f33fef6722cc
-beIN Sports MAX,mitv://ns2.hellotvvod.com:9906/1d28c61387af4ccd847b72b1601415d7
-Eurosport HD,mitv://ns2.hellotvvod.com:9906/047ba1fc376a4ef88c305a659fbb236f
-WWE,mitv://ns2.hellotvvod.com:9906/591deaacdbc247c8be9fb4fc937d6a14
-Astro Cricket,mitv://ns2.hellotvvod.com:9906/d37f8e619e014decb7465d538dc17548
-RTM Sport,mitv://ns2.hellotvvod.com:9906/3b086dcc1106400b8f78e8547d2e3df8
-HKC 18,mitv://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54
-HKC 603,mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
-HKC体育台,mitv://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
-HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
-Sky Sports HD,mitv://ns2.hellotvvod.com:9906/3b236026d690439cb59f49119e3ecd74
-Sky Sports 2,mitv://ns2.hellotvvod.com:9906/9f2669b7e86644dca15545002fe98f3c
-Sky Sports 5,mitv://ns2.hellotvvod.com:9906/30aaf9a6ee9d436cb66db803a974cb63
-Sky Sports 6,mitv://ns2.hellotvvod.com:9906/f3339d9a528042b7a9080dc2dc1e6ec4
-Fight Sports,mitv://ns2.hellotvvod.com:9906/c1bf3e92df5041a59fc1cfdd13277f39
-ESPN,mitv://ns2.hellotvvod.com:9906/9bbbfe9127d3493c9ebb4b95712222e2
-NBA,mitv://ns2.hellotvvod.com:9906/c26bb89ba7d44a83b47c52e7af180d77
-J Sports 1,mitv://ns2.hellotvvod.com:9906/8f789a849c85440d9f1447d5c5977df1
-J Sports 2,mitv://ns2.hellotvvod.com:9906/db5d1bc45f454e6f850b3a379e625e3f
-J Sports 3,mitv://ns2.hellotvvod.com:9906/eacdea4d8fdc4070ac0b94f4c57d8e30
-J Sports 4,mitv://ns2.hellotvvod.com:9906/7bd2b99f5b874e028edb6e7e9915bc33
-Mola Sport,mitv://ns2.hellotvvod.com:9906/969520237daa4f5a939c890871259772
-
-愛爾達體育1台,p5p://fccs.123178.top:9906/617b742500015a6801fc459b61930f93
-愛爾達體育2台,p5p://fccs.123178.top:9906/617b767a000873b0020563740ce34ccd
-愛爾達體育3台,p5p://fccs.123178.top:9906/617b775e00020aaa0208dc70b179c11d
-Eleven運動台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
-博斯網球,p5p://fccs.123178.top:9906/6044783c0007f05c01888ee3506bef35.ts
-博斯運動1台,p5p://fccs.123178.top:9906/604478f0000e964f018b4fb7c6ee22b4.ts
-博斯運動 II,p5p://fccs.123178.top:9906/6044799300093dbb018dcb11ecf6cc03.ts
-Eleven運動台2,p5p://fccs.123178.top:9906/61495671000ab36e0d928a09ffb0ac85
-NHK World HD,p5p://fccs.123178.top:9906/6044741d0000e8b9017873ff81c638cb.ts
-美國高爾夫球,p5p://fccs.123178.top:9906/60447654000dbd4101811e203ac3ee9f.ts
-博斯高球1,p5p://fccs.123178.top:9906/604476f500023ffc01839017c2f8b12b.ts
-博斯高球二台,p5p://fccs.123178.top:9906/604477b3000746210186779063f54d2a.ts
-
-愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/db6bd5a732984d83a8fdb9d0536886c8
-愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/bc49344900a546d39b5083025db6243f
-愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/4f3f4387a8174b8f8aaed89e2901442c
-TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/57536d1b23f34f28bb4d8c065d2e67e5
-博斯高球,mitv://ns2.hellotvvod.com:9906/9eb73e0317034672b4e2bdb0d695387f
-博斯高球二台,mitv://ns2.hellotvvod.com:9906/c612218b5c0d4349a1b4049e89913c75
-博斯網球台,mitv://ns2.hellotvvod.com:9906/47176ac49fed4e74a62d30b037ce81d3
-博斯魅力網,mitv://ns2.hellotvvod.com:9906/8f1d2f23e9964ef6b99f7b7228c199dc
-博斯無限台,mitv://ns2.hellotvvod.com:9906/91e038793b5f45f194ab304ab843b741
-博斯無限二台,mitv://ns2.hellotvvod.com:9906/3367cde8bd924944b2b7bbbaef5be87e
-博斯運動,mitv://ns2.hellotvvod.com:9906/b57a5306d5da4dcea75af2d436968097
-智林體育台,mitv://ns2.hellotvvod.com:9906/8b30925a0d704bcd8286add181bafdb9
-博斯運動二台,mitv://ns2.hellotvvod.com:9906/d4f401d6d6e144dfbb8c944a41b15772
-
 探索,#genre#
 國家地理高畫質野生頻道,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
 BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
@@ -883,7 +781,106 @@ Cinemax,p5p://fccs.123178.top:9906/6149544b0008eb0b0d8a2524ddcf3ee6
 衛視中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
 緯來電影,p5p://fccs.123178.top:9906/614959e10009f39d0d9ff75817774dbe
 
+音樂體育,#genre#
+MTV,mitv://ns2.hellotvvod.com:9906/aad098bade95418a8046acceb0558aa3
+MTV Live,mitv://ns2.hellotvvod.com:9906/5b5d21a03d37495aac99f37ee515efab
+Mezzo Live,mitv://ns2.hellotvvod.com:9906/5a39267c43dd41b1821aef0622730115
+CLASSICA 古典樂,mitv://ns2.hellotvvod.com:9906/391c8cb09e224e84ab588144e0632a30
+CMusic,mitv://ns2.hellotvvod.com:9906/0914d00bdeb748778ea50ce5c008a18b
+MTV HD,tvbus://31mfwjxXeK2sUVMvLLB7SeuyB91K1dhw1wNNkegSCb1cN39MyX
+Classica HD古典音樂,p5p://fccs.123178.top:9906/60689dd9000cb8ae13487fd8feab0590.ts
+Mezzo Live,p5p://fccs.123178.top:9906/6044084c000d934609b339c4b9e633ef.ts
+法國時裝,p5p://fccs.123178.top:9906/6131917c000da76e1853ffa122f43950
+MTV綜合,p5p://fccs.123178.top:9906/604408e9000a103309b59e2621263caa.ts
+LUXE奢華頻道,p5p://fccs.123178.top:9906/60689d7b000b57f61347104e33aa1e24.ts
+韓國娛樂台KMTV,p5p://fccs.123178.top:9906/606bcab100003ef205c38d91720ec13b.ts
+tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
+MTV Live,p5p://fccs.123178.top:9906/60440af600097aa009bda0c8f60b1cae.ts	
+Channel V,p5p://fccs.123178.top:9906/607396f000059e490994da3ca99473b4.ts
+衛視音樂,p5p://fccs.123178.top:9906/6163e81300020e350da08bfaf7a3c756
 
+
+緯來育樂台,mitv://ns2.hellotvvod.com:9906/ed2847f9731a48e19afc2ba479a73939
+緯來體育台,mitv://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
+ELEVEN體育1台,mitv://ns2.hellotvvod.com:9906/0c9c4a9fc07c41bb8537828dd9162e81
+ELEVEN體育2台,mitv://ns2.hellotvvod.com:9906/a610acb66f3749bb953d78899b7205d2
+Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
+愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/db6bd5a732984d83a8fdb9d0536886c8
+愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/bc49344900a546d39b5083025db6243f
+愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/4f3f4387a8174b8f8aaed89e2901442c
+TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/57536d1b23f34f28bb4d8c065d2e67e5
+博斯高球,mitv://ns2.hellotvvod.com:9906/9eb73e0317034672b4e2bdb0d695387f
+博斯高球二台,mitv://ns2.hellotvvod.com:9906/c612218b5c0d4349a1b4049e89913c75
+博斯網球台,mitv://ns2.hellotvvod.com:9906/47176ac49fed4e74a62d30b037ce81d3
+博斯魅力網,mitv://ns2.hellotvvod.com:9906/8f1d2f23e9964ef6b99f7b7228c199dc
+博斯無限台,mitv://ns2.hellotvvod.com:9906/91e038793b5f45f194ab304ab843b741
+博斯無限二台,mitv://ns2.hellotvvod.com:9906/3367cde8bd924944b2b7bbbaef5be87e
+博斯運動,mitv://ns2.hellotvvod.com:9906/b57a5306d5da4dcea75af2d436968097
+智林體育台,mitv://ns2.hellotvvod.com:9906/8b30925a0d704bcd8286add181bafdb9
+博斯運動二台,mitv://ns2.hellotvvod.com:9906/d4f401d6d6e144dfbb8c944a41b15772
+CCTV5,mitv://ns2.hellotvvod.com:9906/f07ab39fdf354c7cb4a34fbaaa3659c7
+CCTV5+,mitv://ns2.hellotvvod.com:9906/7a3a7027352546228475d2691cce06d8
+魅力足球,mitv://ns2.hellotvvod.com:9906/1d8773c524fa4ff0a210dd82b5442327
+新視覺,mitv://ns2.hellotvvod.com:9906/9319abc926b54236ad6215e7132c9c11
+廣東體育,mitv://ns2.hellotvvod.com:9906/3faeeb40ba624e64bb63ded82e67a601
+Golf Channel Philippines,mitv://ns2.hellotvvod.com:9906/29bb74c6d52b42759e572b4470b20eee
+Astro Arena,mitv://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0
+Astro Arena 2,mitv://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b
+Astro SuperSport,mitv://ns2.hellotvvod.com:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
+Astro SuperSport 2,mitv://ns2.hellotvvod.com:9906/5aa28b0759774904a25d7fc12ea233a9
+Astro SuperSport 3,mitv://ns2.hellotvvod.com:9906/68067267b2734dd39032d08bf83db8f0
+Astro SuperSport 4,mitv://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0
+Astro SuperSport 5,mitv://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
+SPOTV,mitv://ns2.hellotvvod.com:9906/5dedc66ef44242819ee8bf88796a9101
+beIN Sports,mitv://ns2.hellotvvod.com:9906/2f0a1100d8724e7c8fe7f33fef6722cc
+beIN Sports MAX,mitv://ns2.hellotvvod.com:9906/1d28c61387af4ccd847b72b1601415d7
+Eurosport HD,mitv://ns2.hellotvvod.com:9906/047ba1fc376a4ef88c305a659fbb236f
+WWE,mitv://ns2.hellotvvod.com:9906/591deaacdbc247c8be9fb4fc937d6a14
+Astro Cricket,mitv://ns2.hellotvvod.com:9906/d37f8e619e014decb7465d538dc17548
+RTM Sport,mitv://ns2.hellotvvod.com:9906/3b086dcc1106400b8f78e8547d2e3df8
+HKC 18,mitv://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54
+HKC 603,mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
+HKC体育台,mitv://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
+HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
+Sky Sports HD,mitv://ns2.hellotvvod.com:9906/3b236026d690439cb59f49119e3ecd74
+Sky Sports 2,mitv://ns2.hellotvvod.com:9906/9f2669b7e86644dca15545002fe98f3c
+Sky Sports 5,mitv://ns2.hellotvvod.com:9906/30aaf9a6ee9d436cb66db803a974cb63
+Sky Sports 6,mitv://ns2.hellotvvod.com:9906/f3339d9a528042b7a9080dc2dc1e6ec4
+Fight Sports,mitv://ns2.hellotvvod.com:9906/c1bf3e92df5041a59fc1cfdd13277f39
+ESPN,mitv://ns2.hellotvvod.com:9906/9bbbfe9127d3493c9ebb4b95712222e2
+NBA,mitv://ns2.hellotvvod.com:9906/c26bb89ba7d44a83b47c52e7af180d77
+J Sports 1,mitv://ns2.hellotvvod.com:9906/8f789a849c85440d9f1447d5c5977df1
+J Sports 2,mitv://ns2.hellotvvod.com:9906/db5d1bc45f454e6f850b3a379e625e3f
+J Sports 3,mitv://ns2.hellotvvod.com:9906/eacdea4d8fdc4070ac0b94f4c57d8e30
+J Sports 4,mitv://ns2.hellotvvod.com:9906/7bd2b99f5b874e028edb6e7e9915bc33
+Mola Sport,mitv://ns2.hellotvvod.com:9906/969520237daa4f5a939c890871259772
+
+愛爾達體育1台,p5p://fccs.123178.top:9906/617b742500015a6801fc459b61930f93
+愛爾達體育2台,p5p://fccs.123178.top:9906/617b767a000873b0020563740ce34ccd
+愛爾達體育3台,p5p://fccs.123178.top:9906/617b775e00020aaa0208dc70b179c11d
+Eleven運動台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
+博斯網球,p5p://fccs.123178.top:9906/6044783c0007f05c01888ee3506bef35.ts
+博斯運動1台,p5p://fccs.123178.top:9906/604478f0000e964f018b4fb7c6ee22b4.ts
+博斯運動 II,p5p://fccs.123178.top:9906/6044799300093dbb018dcb11ecf6cc03.ts
+Eleven運動台2,p5p://fccs.123178.top:9906/61495671000ab36e0d928a09ffb0ac85
+NHK World HD,p5p://fccs.123178.top:9906/6044741d0000e8b9017873ff81c638cb.ts
+美國高爾夫球,p5p://fccs.123178.top:9906/60447654000dbd4101811e203ac3ee9f.ts
+博斯高球1,p5p://fccs.123178.top:9906/604476f500023ffc01839017c2f8b12b.ts
+博斯高球二台,p5p://fccs.123178.top:9906/604477b3000746210186779063f54d2a.ts
+
+愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/db6bd5a732984d83a8fdb9d0536886c8
+愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/bc49344900a546d39b5083025db6243f
+愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/4f3f4387a8174b8f8aaed89e2901442c
+TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/57536d1b23f34f28bb4d8c065d2e67e5
+博斯高球,mitv://ns2.hellotvvod.com:9906/9eb73e0317034672b4e2bdb0d695387f
+博斯高球二台,mitv://ns2.hellotvvod.com:9906/c612218b5c0d4349a1b4049e89913c75
+博斯網球台,mitv://ns2.hellotvvod.com:9906/47176ac49fed4e74a62d30b037ce81d3
+博斯魅力網,mitv://ns2.hellotvvod.com:9906/8f1d2f23e9964ef6b99f7b7228c199dc
+博斯無限台,mitv://ns2.hellotvvod.com:9906/91e038793b5f45f194ab304ab843b741
+博斯無限二台,mitv://ns2.hellotvvod.com:9906/3367cde8bd924944b2b7bbbaef5be87e
+博斯運動,mitv://ns2.hellotvvod.com:9906/b57a5306d5da4dcea75af2d436968097
+智林體育台,mitv://ns2.hellotvvod.com:9906/8b30925a0d704bcd8286add181bafdb9
+博斯運動二台,mitv://ns2.hellotvvod.com:9906/d4f401d6d6e144dfbb8c944a41b15772
 
 
 
