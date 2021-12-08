@@ -1223,6 +1223,17 @@ JY揭阳综合,http://host496323.us.ooqr.com/pltv/gz.php?id=21
 揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8
 汕尾综合,http://dslive.grtn.cn/swzh/sd/live.m3u8
 
+汕头综合,http://27.47.68.167:808/hls/24/index.m3u8#http://host496323.us.ooqr.com/pltv/gz.php?id=24#http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/2398
+揭西台,http://27.47.68.167:808/hls/20/index.m3u8#http://host496323.us.ooqr.com/pltv/gz.php?id=19#http://host496323.us.ooqr.com/pltv/gz.php?id=39
+揭阳综合,http://27.47.68.167:808/hls/21/index.m3u8#http://cdn.chxjon.cn/bolt/gdtv2.php?id=jyzh#http://cdn.chxjon.cn/bolt/gdtv1.php?id=gdjy1#http://113.101.28.169:808/hls/56/index.m3u8#http://host496323.us.ooqr.com/pltv/gz.php?id=21#http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1254
+揭阳公共,http://27.47.68.167:808/hls/22/index.m3u8#http://113.101.28.169:808/hls/72/index.m3u8#http://host496323.us.ooqr.com/pltv/gz.php?id=22
+潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
+潮州综合,http://27.47.68.167:808/hls/23/index.m3u8#http://cdn.chxjon.cn/bolt/gdtv2.php?id=czzh#http://cdn.chxjon.cn/bolt/gdtv1.php?id=gdcz1#http://live.zscz0768.com/live/zhpd.m3u8#http://dslive.grtn.cn/czzh/sd/live.m3u8
+潮州公共,http://live.zscz0768.com/live/ggpd.m3u8#http://host496323.us.ooqr.com/pltv/gz.php?id=23
+普宁综合,rtmp://rtmp2.danghongyun.com/live/2ybartbd_87587630e8904f55a1340789928bb7f8#http://cdn.chxjon.cn/bolt/gdtv1.php?id=gdjypn#http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/2450#http://www.nettvpro.live/hls/itouch.php?id=2450
+汕尾综合,http://cdn.chxjon.cn/bolt/gdtv2.php?id=swzh#http://cdn.chxjon.cn/bolt/gdtv1.php?id=gdsw1
+潮安综合,http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
+
 🆕新聞,#genre#
 CCTV4,rtsp://125.88.53.18/PLTV/88888905/224/3221229981/10000100000000060000000010232874_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EWWB8_f1wHT6FqFOd9jVYYQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019050799000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601
 CCTV4,rtsp://183.59.70.74:554/PLTV/88888905/224/3221229981/10000100000000060000000010232874_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EWWB8_f1wHT6FqFOd9jVYYQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019050799000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605707119
