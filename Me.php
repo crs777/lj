@@ -1157,7 +1157,7 @@ CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 广东影视,http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1199
 广东体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东珠江,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-JY揭阳综合,http://host496323.us.ooqr.com/pltv/gz.php?id=21
+揭阳综合,http://host496323.us.ooqr.com/pltv/gz.php?id=21
 揭阳公共,http://host496323.us.ooqr.com/pltv/gz.php?id=22
 汕头综合,http://host496323.us.ooqr.com/pltv/gz.php?id=24
 潮州综合,http://host496323.us.ooqr.com/pltv/gz.php?id=23
@@ -1256,7 +1256,7 @@ CCTV13,https://cctv5cnch5ca.v.wscdns.com/live/cctv13_2/index.m3u8
 凤凰中文,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
 凤凰资讯,mitv://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
 无线新闻,mitv://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51
-无线财经·资讯台,mitv://ns2.hellotvvod.com:9906/790b3d24875349d8b3118357cb9a5124
+无线财经,mitv://ns2.hellotvvod.com:9906/790b3d24875349d8b3118357cb9a5124
 now新闻台,mitv://ns2.hellotvvod.com:9906/f228f98bc84245ce9b4870364b82b6da
 now直播台,mitv://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
 有线新闻台,mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
@@ -1284,7 +1284,7 @@ TVBS新聞台,mitv://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
 NHK新聞資訊台,mitv://ns2.hellotvvod.com:9906/8e265b23cea543799cee6ef28caee271
 
 无线新闻,P2p://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51
-无线财经·资讯台,P2p://ns2.hellotvvod.com:9906/790b3d24875349d8b3118357cb9a5124
+无线财经,P2p://ns2.hellotvvod.com:9906/790b3d24875349d8b3118357cb9a5124
 now新闻台,P2p://ns2.hellotvvod.com:9906/f228f98bc84245ce9b4870364b82b6da
 now直播台,P2p://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
 有线新闻台,P2p://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
