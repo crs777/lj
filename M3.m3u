@@ -267,7 +267,7 @@ http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS
 
 
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="港台频道",TVB翡翠台（香港线路）
-http://anan.jxin122.top/cj.php?id=78&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+rtmp://v3948069e.live.126.net:1935/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH3/3
 
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="港台频道",TVB翡翠台（香港线路）
 http://iptv.tvfix.org/hls/jade2.m3u8
@@ -285,14 +285,15 @@ http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://host496323.us.ooqr.com/pltv/gz.php?id=25
 
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港台频道",翡翠华丽台
+rtmp://v3948069e.live.126.net:1935/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH6/6
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港台频道",翡翠华丽台(备)
 http://iptv.tvfix.org/hls/jadenhk2.m3u8
 
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港台频道",TVB J2（香港线路）
 http://iptv.tvfix.org/hls/j2.m3u8
-http://anan.jxin122.top/cj.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港台频道",TVB J2（香港线路）
-http://anan.jxin122.top/cj.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+rtmp://v3948069e.live.126.net:1935/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH4/4
 http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 https://cdn-cn.hkdtmb.com/hls/82/index.m3u8
 https://cdn.hkdtmb.com/hls/82/index.m3u8
@@ -303,7 +304,7 @@ http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 http://host496323.us.ooqr.com/pltv/gz.php?id=tvbmz
 
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="港台频道",TVB明珠台（香港线路）
-http://anan.jxin122.top/cj.php?id=77&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+rtmp://v3948069e.live.126.net:1935/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH5/5
 http://liuk.usa7.20212021.ga/tbs.php?id=13
 http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 https://cdn-cn.hkdtmb.com/hls/84/index.m3u8
@@ -322,8 +323,7 @@ http://host496323.us.ooqr.com/pltv/gz.php?id=26
 http://iptv.tvfix.org/hls/inews.m3u8
 
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="港台频道",无线新闻（香港线路）
-http://anan.jxin122.top/cj.php?id=73&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-http://v3948069e.live.126.net/live/hK4tA4lH4rG2jL1aW5jS5pUOsN3aK7qA.flv
+rtmp://v3948069e.live.126.net:1935/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH14/14
 http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=4
 https://cdn-cn.hkdtmb.com/hls/83/index.m3u8
 http://cdn.hkdtmb.com/hls/83/index.m3u8
@@ -334,14 +334,12 @@ http://www.nettvpro.live/hls/tvb.php?id=2
 http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=5
 
 #EXTINF:-1 tvg-id="85" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" group-title="港台频道", 无线财经（香港线路）
-http://anan.jxin122.top/cj.php?id=79&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-http://v3948069e.live.126.net/live/wP6rC2xA7qP2kR5gFOiW3rX6nC3mJ4tF.flv
+rtmp://v3948069e.live.126.net:1935/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH15/15
 https://cdn-cn.hkdtmb.com/hls/85/index.m3u8
 https://cdn.hkdtmb.com/hls/85/index.m3u8
 https://cdn.hkdtmb.com/hls/85b/index.m3u8
 
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台频道",有线新闻台
-http://anan.jxin122.top/cj.php?id=62&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 http://v3948069e.live.126.net/live/tghjJYZGYFFHUYFTVBBJNBGODSZWQQWERTGFDT/ggbox/index.flv
 
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台频道",有线新闻台(备)
@@ -350,13 +348,11 @@ rtmp://v3948069e.live.126.net:1935/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
 #EXTINF:-1 tvg-id="nownews" tvg-name="NOW新闻台" tvg-logo="https://gitee.com/mango-hi-m3/lj/raw/master/TB/now%E6%96%B0%E9%97%BB%E5%8F%B0.jpg" group-title="港台频道",NOW新闻台
 http://v3948069e.live.126.net/live/tghjBVUTYUIGTGTFTFTFRFVTVF/ggbox/index.flv
 
-#EXTINF:-1 tvg-id="nownews" tvg-name="NOW新闻台" tvg-logo="https://gitee.com/mango-hi-m3/lj/raw/master/TB/now%E6%96%B0%E9%97%BB%E5%8F%B0.jpg" group-title="港台频道",NOW新闻台（备）
-http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=65
+#EXTINF:-1 tvg-id="nownews" tvg-name="NOW新闻台" tvg-logo="https://gitee.com/mango-hi-m3/lj/raw/master/TB/now%E6%96%B0%E9%97%BB%E5%8F%B0.jpg" group-title="港台频道",NOW体育台
+rtmp://v3948069e.live.126.net:1935/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH21/21
 
 #EXTINF:-1 tvg-id="408" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港台频道", ViuTV
-http://anan.jxin122.top/cj.php?id=94&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-http://iptv2.phoves.com.cn/mytv/mytv.php?id=6&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516
-http://v3948069e.live.126.net/live/sB8lR2tA2jS8iR7jW2kd4fX5iW4jJ7dE.flv
+rtmp://v3948069e.live.126.net:1935/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH16/16
 https://p2.weizan.cn/1646497941/584748994834606962/live.m3u8
 http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/06.m3u8
 
@@ -402,11 +398,10 @@ http://v3948069e.live.126.net/live/ehxdcued02570081/56.flv
 http://v3948069e.live.126.net/live/qF7qZ9zR2nD2nC2zH5kU5iZ8aA2dN8zA.flv
 
 #EXTINF:-1 tvg-id="236" tvg-name="美亚电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港台频道",美亚电影台（国）
-http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
-http://v3948069e.live.126.net/live/hodtv4003.flv
+rtmp://v3948069e.live.126.net:1935/live/2377c07c1d9e4588
 
 #EXTINF:-1 tvg-id="236" tvg-name="美亚电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港台频道",美亚电影台（粤）
-http://anan.jxin122.top/cj.php?id=89&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+rtmp://v3948069e.live.126.net:1935/live/2377c0
 
 #EXTINF:-1 tvg-id="香港C+" tvg-name="香港C+" tvg-logo="" group-title="港台频道",香港C+
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
@@ -425,8 +420,7 @@ http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/index_150_av-p.m3u8?sd=6&re
 http://v3948069e.live.126.net/live/2377c07c1.flv
 
 #EXTINF:-1 tvg-id="245"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png"  group-title="港台频道",TVB星河频道（粤）
-http://anan.jxin122.top/cj.php?id=76&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-http://v3948069e.live.126.net/live/5d3078870001abed3430396800e90045/TWggboxTV/index.flv
+rtmp://v3948069e.live.126.net:1935/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH10/10
 
 #EXTINF:-1 tvg-id="245" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png"  group-title="港台频道",TVB星河频道（国）
 http://v3948069e.live.126.net/live/muukvgei99262641/3.flv
