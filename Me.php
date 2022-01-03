@@ -1399,6 +1399,24 @@ ch902足球,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH2
 now直播,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH22/22
 now财经,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH23/23
 
+莲花卫视,http://ye23.win/iptv/lotustv2020.php#https://www.nettvpro.live/hls/lotustv.php#http://nettvpro.live/hls/lotustv.php
+翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+莲花卫视,http://nettvpro.live/hls/lotustv.php
+明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
+明珠台,http://nettvpro.live/hls/zjkp.php?id=12
+明珠台,http://124.238.99.44:808/hls/355/index.m3u8
+无线资讯台,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
+翡翠华丽台,http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠华丽台,http://iptv.tvfix.org/hls/jadenhk2.m3u8
+TVB经典,http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
+TVB为食台,http://iptv.tvfix.org/hls/tvbws2.m3u8
+美亚港版,http://iptv.tvfix.org/hls/mydy.m3u8
+美亚港版,http://iptv.tvfix.org/hls/mydy2.m3u8
+TVB星河,http://iptv.tvfix.org/hls/tvbxh.m3u8
+TVB星河,http://iptv.tvfix.org/hls/tvbxh2.m3u8
+
 凤凰中文,P2p://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
 凤凰资讯,P2p://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
 凤凰香港,P2p://ns2.hellotvvod.com:9906/1e2d62497f71486cb6f1d6bbe1bbdb4f
