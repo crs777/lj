@@ -373,18 +373,18 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://v3948069e.live.126.net/live/83KZ4yXCer/w2EMDHLA4d/19.flv
 
 #EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="港台频道",港台電視31（香港线路）
-http://anan.jxin122.top/cj.php?id=96&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+http://iptv.tvfix.org/hls/rthk31.m3u8
 https://cdn.hkdtmb.com/hls/31/index.m3u8
 https://cdn-cn.hkdtmb.com/hls/31/index.m3u8
 
 #EXTINF:-1 tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="港台频道",港台電視32（香港线路）
-http://anan.jxin122.top/cj.php?id=97&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+http://iptv.tvfix.org/hls/rthk32.m3u8
 http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=9
 https://cdn.hkdtmb.com/hls/32/index.m3u8
 https://cdn-cn.hkdtmb.com/hls/32/index.m3u8
 
 #EXTINF:-1 tvg-id="241" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台频道",香港開電視（香港线路）
-http://iptv2.phoves.com.cn/mytv/mytv.php?id=56&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516
+http://iptv.tvfix.org/hls/opentv.m3u8
 http://v3948069e.live.126.net/live/sY0wD0bE1uY5rC0lS3kX1vC4cG0aM4eC.flv
 https://cdn.hkdtmb.com/hls/77/index.m3u8
 https://cdn-cn.hkdtmb.com/hls/77/index.m3u8
@@ -711,8 +711,9 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=208&FvSeid=1&Fsv_ctype=LIVES&Fs
         音乐
 
 #EXTINF:-1 tvg-id="" tvg-name="V" tvg-logo="https://gitee.com/mango-hi-m3/Me/raw/main/TB/CHANNEL%20%5BV%5D%E5%9B%BD%E9%99%85%E9%A2%91%E9%81%93.png" group-title="Music音乐",音乐V
+http://iptv.tvfix.org/hls/channelv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="V" tvg-logo="https://gitee.com/mango-hi-m3/Me/raw/main/TB/CHANNEL%20%5BV%5D%E5%9B%BD%E9%99%85%E9%A2%91%E9%81%93.png" group-title="Music音乐",音乐V(备)
 http://113.64.147.176:808/hls/88/index.m3u8
-
 
 #EXTINF:-1 tvg-id="393" tvg-name="MTV综合" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MTV.png" group-title="Music音乐",MTV綜合
 #http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
@@ -953,7 +954,7 @@ http://218.202.220.2:5000/nn_live.m3u8?id=NEWSASIA
 
 
 #EXTINF:-1 tvg-id="475" tvg-name="DMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DMAX.png" group-title="探索频道",探索动力
-
+http://iptv.tvfix.org/hls/discovery.m3u8
 
 #EXTINF:-1 tvg-id="447" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="探索频道",探索频道
 http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
@@ -962,7 +963,7 @@ http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 http://iptv.tvfix.org/hls/discovery.m3u8
 
 #EXTINF:-1 tvg-id="473" tvg-name="Discovery科学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery%E7%A7%91%E5%AD%A6.png" group-title="探索频道",探索科学
-
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH104/104
 
 #EXTINF:-1 tvg-id="449" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="探索频道",动物星球
 http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
