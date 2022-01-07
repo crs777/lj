@@ -498,24 +498,19 @@ http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/2450
 rtmp://rtmp2.danghongyun.com:1935/live/2ybartbd_87587630e8904f55a1340789928bb7f8
 
 #EXTINF:-1 tvg-id="揭阳新闻综合" tvg-name="揭阳综合" tvg-logo="https://gitee.com/mango-hi-m3/Me/raw/main/TB/%E6%8F%AD%E9%98%B3%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.jpg" group-title="广东",揭阳新闻综合
-http://dslive.grtn.cn/jyzh/sd/live.m3u8
-http://host496323.us.ooqr.com/pltv/gz.php?id=21
+http://113.64.147.176:808/hls/21/index.m3u8
 
 #EXTINF:-1 tvg-id="揭阳公共频道" tvg-name="揭阳公共" tvg-logo="https://gitee.com/mango-hi-m3/Me/raw/main/TB/%E6%8F%AD%E9%98%B3%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.jpg" group-title="广东",揭阳公共频道
-http://host496323.us.ooqr.com/pltv/gz.php?id=22
 http://113.64.147.176:808/hls/22/index.m3u8
 rtsp://125.88.53.80:554/PLTV/88888905/224/3221227753/10000100000000060000000004941374_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EIbAeP9v6ojKrS64ULp5BcA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052014122200000034%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605706724
 rtsp://125.88.53.18/PLTV/88888905/224/3221227753/10000100000000060000000004941374_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EIbAeP9v6ojKrS64ULp5BcA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000004000000052014122200000034%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601
 
 #EXTINF:-1 tvg-id="揭西台" group-title="广东",揭西台
-http://host496323.us.ooqr.com/pltv/gz.php?id=19
-http://host496323.us.ooqr.com/pltv/gz.php?id=39
 http://113.64.147.176:808/hls/19/index.m3u8
 http://113.64.147.176:808/hls/39/index.m3u8
 
 #EXTINF:-1 tvg-id="汕头新闻综合" tvg-name="汕头新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://gitee.com/mango-hi-m3/Me/raw/main/TB/%E6%B1%95%E5%A4%B4%E4%B8%80%E5%A5%97%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.jpg" group-title="广东",汕头新闻综合
-http://dslive.grtn.cn/stzh/sd/live.m3u8
-http://dslive.grtn.cn/stzh/playlist.m3u8?ts
+http://113.64.147.176:808/hls/24/index.m3u8
 
 #EXTINF:-1 汕头经济生活
 rtsp://183.59.16.213:554/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil?zoneoffset=480&icpid=szmg&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EiCDs7Xk0hYqPIyfEDgqdGQ%7EoG0bbRshWZDLd-ZgXsv3aR-d2N3eL0xF7pJaBEUPBAYvWjd9zTsLjXp_QntI7R43JrRuebEDLOE0Mw_whDdI2qRjPy2SIKJfcq0X5d3FQg4~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20210316122152%2C17038776%2C10.96.111.79%2C20210316122152%2C31000100000000050000000000217263%2C1703877620210316122151%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=260&hms_devid=69584&online=1615873486&it=H4sIAAAAAAAAAyspSkxO9XSxzSvNyVErTi30y7c1VktOzMnJzEv3y08BSYUFO8cbWhjrmVrqGZoZ6Bkbq4WANLnlJKbbGoDV-pXmJqUWQTlAjcGpRWWZyam2KcVpegU5iZWlRTl6xQWZYHZoUQ5UGgCSVwd2ewAAAA
@@ -529,11 +524,7 @@ rtsp://183.59.16.215:554/PLTV/88888895/224/3221227415/10000100000000060000000003
 http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1261
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州新闻综合" tvg-logo="https://gitee.com/mango-hi-m3/Me/raw/main/TB/%E6%BD%AE%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.jpg" group-title="广东",潮州新闻综合
-http://host496323.us.ooqr.com/pltv/gz.php?id=23
 http://113.64.147.176:808/hls/23/index.m3u8
-http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/185.m3u8
-http://113.64.147.217:808/hls/23/index.m3u8?times=0
-http://dslive.grtn.cn/czzh/sd/live.m3u8
 
 #EXTINF:-1 潮州公共
 http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/186.m3u8
