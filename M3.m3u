@@ -1600,3 +1600,14 @@ http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="港澳台",FOX频道
 http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
+
+   测试
+   
+#EXTINF:-1 group-title="测试",国家地理频道
+P2p://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
+#EXTINF:-1 group-title="测试",国家地理野生频道
+P2p://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
+#EXTINF:-1 group-title="测试",探索頻道
+P2p://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0   
+   
+   
