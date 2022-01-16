@@ -1403,6 +1403,8 @@ HKC綜合娱乐台,mitv://ns2.hellotvvod.com:9906/a17643cfcae6400d8770e4b89958b7
 HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
 Thrill,mitv://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
 
+翡翠台,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
+
 翡翠台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH3/3
 翡翠华丽台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH6/6
 J2,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH4/4
