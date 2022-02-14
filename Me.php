@@ -498,6 +498,14 @@ CCTV13,https://cctv5cnch5ca.v.wscdns.com/live/cctv13_2/index.m3u8
 凤凰资讯,http://anan.jxin122.top/cj.php?id=99&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 凤凰中文,http://anan.jxin122.top/cj.php?id=100&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 
+凤凰资讯,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
+凤凰中文,p5p://fccs.123178.top:9906/604355380000ff4606f7b06cbafec3a5.ts
+鳳凰香港,p5p://fccs.123178.top:9906/604355eb000c9c6806fa6e9daf90ff12.ts
+有线新闻台,p5p://fccs.123178.top:9906/60ed1721000502290f99063cfc1e9344
+无线新闻,p5p://fccs.123178.top:9906/615adefa000969a80447270684f41d26
+凤凰资讯,p5p://45.92.126.18:9906/604354a700001c2706f579cae17a48f1.ts
+凤凰中文,p5p://45.92.126.18:9906/604355380000ff4606f7b06cbafec3a5.ts#p5p://45.92.126.18:9906/60447d38000deb8b019c08cb6ec7c4d9.ts#p5p://45.92.126.18:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
+
 凤凰中文,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
 凤凰资讯,mitv://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
 无线新闻,mitv://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51
@@ -527,15 +535,6 @@ TVBS新聞台,mitv://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
 華視新聞,mitv://ns2.hellotvvod.com:9906/412a06626d254822954dd29b235f9366
 台視財經台,mitv://ns2.hellotvvod.com:9906/d8d1fa07f623422aae04f0e860f4bea3
 NHK新聞資訊台,mitv://ns2.hellotvvod.com:9906/8e265b23cea543799cee6ef28caee271
-
-凤凰资讯,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
-凤凰中文,p5p://fccs.123178.top:9906/604355380000ff4606f7b06cbafec3a5.ts
-鳳凰香港,p5p://fccs.123178.top:9906/604355eb000c9c6806fa6e9daf90ff12.ts
-有线新闻台,p5p://fccs.123178.top:9906/60ed1721000502290f99063cfc1e9344
-无线新闻,p5p://fccs.123178.top:9906/615adefa000969a80447270684f41d26
-凤凰资讯,p5p://45.92.126.18:9906/604354a700001c2706f579cae17a48f1.ts
-凤凰中文,p5p://45.92.126.18:9906/604355380000ff4606f7b06cbafec3a5.ts#p5p://45.92.126.18:9906/60447d38000deb8b019c08cb6ec7c4d9.ts#p5p://45.92.126.18:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
-
 
 🇭🇰港澳,#genre#
 
