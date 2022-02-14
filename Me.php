@@ -806,7 +806,7 @@ NHK新聞資訊台,mitv://ns2.hellotvvod.com:9906/8e265b23cea543799cee6ef28caee2
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
-凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
+
 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
 翡翠台华丽台,http://iptv.tvfix.org/hls/jadenhk.m3u8
@@ -817,20 +817,6 @@ J2,http://iptv.tvfix.org/hls/j22.m3u8
 无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
 无线新闻,http://iptv.tvfix.org/hls/inews2.m3u8
 无线新闻,http://ye23.win/iptv/tvb.php?id=1
-明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
-明珠台http://iptv.tvfix.org/hls/pearl2.m3u8
-大陆明珠台,http://103.45.250.64:80/gudou5.php?id=1351_4500
-大陆明珠台,http://103.45.250.64/gudou5.php?id=xgmingzhu_1500
-无线财经资讯台,http://iptv.tvfix.org/hls/finance.m3u8
-无线财经资讯台,http://iptv.tvfix.org/hls/finance2.m3u8
-无线财经资讯台,http://iptv.tvfix.org/hls/financenhk.m3u8
-ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8
-ViuTV,http://iptv.tvfix.org/hls/viutv2.m3u8
-ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
-香港电视31,http://iptv.tvfix.org/hls/rthk31.m3u8
-香港电视32,http://iptv.tvfix.org/hls/rthk32.m3u8
-香港国际财经台,http://iptv.tvfix.org/hls/hkibc.m3u8
-香港开电视,http://iptv.tvfix.org/hls/opentv.m3u8
 
 凤凰中文,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
 凤凰资讯,mitv://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
@@ -871,7 +857,20 @@ Thrill,mitv://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
 
 
 
-
+明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
+明珠台http://iptv.tvfix.org/hls/pearl2.m3u8
+大陆明珠台,http://103.45.250.64:80/gudou5.php?id=1351_4500
+大陆明珠台,http://103.45.250.64/gudou5.php?id=xgmingzhu_1500
+无线财经资讯台,http://iptv.tvfix.org/hls/finance.m3u8
+无线财经资讯台,http://iptv.tvfix.org/hls/finance2.m3u8
+无线财经资讯台,http://iptv.tvfix.org/hls/financenhk.m3u8
+ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8
+ViuTV,http://iptv.tvfix.org/hls/viutv2.m3u8
+ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
+香港电视31,http://iptv.tvfix.org/hls/rthk31.m3u8
+香港电视32,http://iptv.tvfix.org/hls/rthk32.m3u8
+香港国际财经台,http://iptv.tvfix.org/hls/hkibc.m3u8
+香港开电视,http://iptv.tvfix.org/hls/opentv.m3u8
 TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
 TVBS新闻台,http://iptv.tvfix.org/hls/tvbsnews.m3u8
 中天新闻,http://iptv.tvfix.org/hls/ztxw.m3u8
