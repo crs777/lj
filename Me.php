@@ -564,7 +564,10 @@ NHK新聞資訊台,mitv://ns2.hellotvvod.com:9906/8e265b23cea543799cee6ef28caee2
 凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
 
+翡翠台,p5p://fccs.123178.top:9906/615ae0360009eda6044bf987e8d620d7
+翡翠台,p5p://fccs.123178.top:9906/615ae0360009eda6044bf987e8d620d7
 翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
+
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
 翡翠台华丽台,http://iptv.tvfix.org/hls/jadenhk.m3u8
 翡翠台华丽台,http://iptv.tvfix.org/hls/jadenhk2.m3u8
