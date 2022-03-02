@@ -354,6 +354,7 @@ CCTV13,http://39.135.34.150:8080/000000001000/1000000002000021303/1.m3u8?xtkg
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,p5p://45.92.126.18:9906/604354a700001c2706f579cae17a48f1.ts
 凤凰中文,p5p://45.92.126.18:9906/604355380000ff4606f7b06cbafec3a5.ts#p5p://45.92.126.18:9906/60447d38000deb8b019c08cb6ec7c4d9.ts#p5p://45.92.126.18:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
@@ -413,6 +414,7 @@ NHK新聞資訊台,mitv://ns2.hellotvvod.com:9906/8e265b23cea543799cee6ef28caee2
 🇭🇰港澳,#genre#
 
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8 
 凤凰香港,http://183.207.248.71/cntv/live1/1/HD-10000k-1080P-fhhongkong
 凤凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
@@ -435,7 +437,7 @@ NHK新聞資訊台,mitv://ns2.hellotvvod.com:9906/8e265b23cea543799cee6ef28caee2
 凤凰资讯,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
 凤凰资讯,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
+
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
 
 翡翠台,p5p://fccs.123178.top:9906/615ae0360009eda6044bf987e8d620d7
