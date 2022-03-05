@@ -123,9 +123,7 @@ https://cctvcnch5ca.v.wscdns.com/live/cctv15_2/10793.m3u8
 
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频道",CCTV-16奥林匹克
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
-cctv16,https://cctvalih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8
-cctv16,https://cctv5alih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8
-cctv16,https://cctv5cnch5ca.v.wscdns.com/live/cctv16_2/index.m3u8
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV-17农村农业
 https://cctvcnch5ca.v.wscdns.com/live/cctv17_2/10793.m3u8
@@ -536,15 +534,13 @@ http://113.64.147.176:808/hls/19/index.m3u8
 http://113.64.147.176:808/hls/39/index.m3u8
 
 #EXTINF:-1 tvg-id="汕头新闻综合" tvg-name="汕头新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://gitee.com/mango-hi-m3/Me/raw/main/TB/%E6%B1%95%E5%A4%B4%E4%B8%80%E5%A5%97%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.jpg" group-title="广东",汕头新闻综合
-http://113.64.147.176:808/hls/24/index.m3u8
+http://astream.apk1088.com:18888/channel.php?id=shantouyitaogaoqing_4500&/PLTV/hls.smil.m3u8
 
 #EXTINF:-1 汕头经济生活
-rtsp://183.59.16.213:554/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil?zoneoffset=480&icpid=szmg&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EiCDs7Xk0hYqPIyfEDgqdGQ%7EoG0bbRshWZDLd-ZgXsv3aR-d2N3eL0xF7pJaBEUPBAYvWjd9zTsLjXp_QntI7R43JrRuebEDLOE0Mw_whDdI2qRjPy2SIKJfcq0X5d3FQg4~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20210316122152%2C17038776%2C10.96.111.79%2C20210316122152%2C31000100000000050000000000217263%2C1703877620210316122151%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=260&hms_devid=69584&online=1615873486&it=H4sIAAAAAAAAAyspSkxO9XSxzSvNyVErTi30y7c1VktOzMnJzEv3y08BSYUFO8cbWhjrmVrqGZoZ6Bkbq4WANLnlJKbbGoDV-pXmJqUWQTlAjcGpRWWZyam2KcVpegU5iZWlRTl6xQWZYHZoUQ5UGgCSVwd2ewAAAA
-rtsp://125.88.53.18/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil?zoneoffset=480&icpid=szmg&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EiCDs7Xk0hYqPIyfEDgqdGQ%7EoG0bbRshWZDLd-ZgXsv3aR-d2N3eL0xF7pJaBEUPBAYvWjd9zTsLjXp_QntI7R43JrRuebEDLOE0Mw_whDdI2qRjPy2SIKJfcq0X5d3FQg4~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20210316122152%2C17038776%2C10.96.111.79%2C20210316122152%2C31000100000000050000000000217263%2C1703877620210316122151%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OTQ-CMAyG_82OCx8KetgJY2Ji5gH0aupWJ6GwuYGJ_96BpJe2T5_0HT0oPB3EMBGxgG9pRcYUELWDkVbP6FZX93SX8-2ep0XC85w1s3QkMCJZbuXUP9CvQxRr9J9WodDhyR3Bd_LEg2uX_uppxQyb9XlaxEo2ZVFmScnGedtA6CJhLwiV7R141GdrFkE8gQIyB6oDgxJ6_KdfvIvXMckPd80bp9YAAAA&tenantId=8601
+http://astream.apk1088.com:18888/channel.php?id=shantouertaogaoqing_4500&/PLTV/hls.smil.m3u8
 
 #EXTINF:-1 tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://gitee.com/mango-hi-m3/Me/raw/main/TB/%E6%B1%95%E5%A4%B4%E4%B8%80%E5%A5%97%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.jpg" group-title="广东",汕头文旅体育
-rtsp://183.59.160.61/PLTV/88888895/224/3221227415/10000100000000060000000003869079_0.smil?zoneoffset=480&icpid=szmg&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EmL-xXjU0Ds5jefeVzPQEbA%7EoG0bbRshWZDLd-ZgXsv3aR-d2N3eL0xF7pJaBEUPBAYvWjd9zTsLjXp_QntI7R43JrRuebEDLOE0Mw_whDdI2qRjPy2SIKJfcq0X5d3FQg4~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20210316122152%2C17038776%2C10.96.111.79%2C20210316122152%2C31000100000000050000000000217264%2C1703877620210316122151%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OTQ-CMAyG_82OCx8KetgJY2Ji5gH0aupWJ6GwuYGJ_96BpJe2T5_0HT0oPB3EMBGxgG9pRcYUELWDkVbP6FZX93SX8-2ep0XC85w1s3QkMCJZbuXUP9CvQxRr9J9WodDhyR3Bd_LEg2uX_uppxQyb9XlaxEo2ZVFmScnGedtA6CJhLwiV7R141GdrFkE8gQIyB6oDgxJ6_KdfvIvXMckPd80bp9YAAAA&tenantId=8601
-rtsp://183.59.16.215:554/PLTV/88888895/224/3221227415/10000100000000060000000003869079_0.smil?zoneoffset=480&icpid=szmg&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EmL-xXjU0Ds5jefeVzPQEbA%7EoG0bbRshWZDLd-ZgXsv3aR-d2N3eL0xF7pJaBEUPBAYvWjd9zTsLjXp_QntI7R43JrRuebEDLOE0Mw_whDdI2qRjPy2SIKJfcq0X5d3FQg4~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20210316122152%2C17038776%2C10.96.111.79%2C20210316122152%2C31000100000000050000000000217264%2C1703877620210316122151%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=260&hms_devid=71364&online=1615873497&it=H4sIAAAAAAAAAyspSkxO9XSxzSvNyVErTi30y7c1VktOzMnJzEv3y08BSYUFO8cbWhjrmVrqGZoZ6Bkbq4WANLnlJKbbGoDV-pXmJqUWQTlAjcGpRWWZyam2KcVpegU5iZWlRTl6xQWZYHZoUQ5UGgCSVwd2ewAAAA
+http://astream.apk1088.com:18888/channel.php?id=shantousantaogaoqing_4500&/PLTV/hls.smil.m3u8
 
 #EXTINF:-1 tvg-logo="https://gitee.com/mango-hi-m3/Me/raw/main/TB/%E6%B1%95%E5%B0%BE%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.jpg" group-title="广东",汕尾新闻综合
 http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1261
@@ -966,9 +962,16 @@ http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
 #EXTINF:-1 tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="电影",凤凰电影台
 http://218.202.220.2:5000/nn_live.m3u8?id=NEWSASIA
 
+探索频道
 
-
-
+#EXTINF:-1 group-title="网络",求索动物HD
+http://teyonda.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb01.php?id=QSDWHD_7000
+#EXTINF:-1 group-title="网络",求索纪录HD
+http://183.214.126.200:3003/live/qsjl/index.m3u8
+#EXTINF:-1 group-title="网络",求索科学HD
+http://teyonda.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb01.php?id=qiusuokexueHD_7000
+#EXTINF:-1 group-title="网络",求索生活HD
+http://teyonda.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb01.php?id=QSSHHD_7000
 
 #EXTINF:-1 tvg-id="475" tvg-name="DMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DMAX.png" group-title="探索频道",探索动力
 http://iptv.tvfix.org/hls/discovery.m3u8
