@@ -346,6 +346,7 @@ CCTV4,rtsp://125.88.53.18/PLTV/88888905/224/3221229981/1000010000000006000000001
 CCTV4,rtsp://183.59.70.74:554/PLTV/88888905/224/3221229981/10000100000000060000000010232874_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EWWB8_f1wHT6FqFOd9jVYYQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000006000000052019050799000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605707119
 CCTV4,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
 CCTV4,http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+CCTV4,http://111.63.117.13:6060/030000001000/CCTV-4/CCTV-4.m3u8
 
 CCTV13,rtsp://183.59.131.98:554/PLTV/88888905/224/3221230039/10000100000000060000000011392793_0.smil?icpid=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7En9bUXjDLYcK9yZEdi0IjnQ%7EbLOzG9vYoN7ey7iY69nHZdPUiRe2_9L3SU-HYMCkcDkvsW4hTJlWEWMhTlEZzYxFU6JrebBV1RfOih5WutglnTFb-CIDdUvB5gc2peegd1o~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==:20288888888888,8601
 CCTV13,rtsp://183.59.207.245/PLTV/88888905/224/3221229973/10000100000000060000000010731671_0.smil?accountinfo=AUubsVpj3e1LdfFJ6K1zdb2/UBh2rqAHtkBwgtHaY+Vw92TSOsus5BM1+PTQJgHlrGgw4EhcRtrzMN6LD+EAdB4Ia/Ar1/LMpRQwMYmVjYgO8EQldGn5qf7hZ9IGPe8lAtD9Z8smblkwpXZ5FdMJDA,END
@@ -1169,6 +1170,10 @@ KIX动作,p5p://45.92.126.18:9906/6044145c000e8fb900026d95dbb7683a.ts
 
 🐬探索,#genre#
 
+Channel[V],http://v.mp.haue.edu.cn/hls/channelv.m3u8
+探索频道,http://v.mp.haue.edu.cn/hls/discovery.m3u8
+国家地理,http://v.mp.haue.edu.cn/hls/natlgeo.m3u8
+
 国家地理野生频道,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
 BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
 Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
@@ -1272,4 +1277,12 @@ BBC Earth,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
 上海纪实人文[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225609/index.m3u8?fmt=ts2hls
 上海纪实人文[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
 湖南金鹰纪实[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
+
+DOXTV,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000126&playtoken=ABCDEFGH&auth=no
+CBN每日影院,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000565&playtoken=ABCDEFGH&auth=no
+CBN幸福剧场,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000566&playtoken=ABCDEFGH&auth=no
+CBN幸福娱乐,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000567&playtoken=ABCDEFGH&auth=no
+CBN风尚生活,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000568&playtoken=ABCDEFGH&auth=no
+精彩影视,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000149&playtoken=ABCDEFGH&auth=no
+求索纪录,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000144&playtoken=ABCDEFGH&auth=no
 
