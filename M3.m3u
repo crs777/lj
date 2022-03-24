@@ -27,15 +27,7 @@ http://jwplay.hebyun.com.cn/live/cctv3/1500k/tzwj_video.m3u8
 
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV-4国际
-http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
-http://223.110.236.3/wh7f454c46tw965959419_-468071028/ott.js.chinamobile.com/PLTV/4/224/3221225781/index.m3u8?icpid=4&RTS=1634137237&from=40&popid=40&hms_devid=2053&prioritypopid=40&vqe=3
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv4_2/index.m3u8
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv4_2_hd/index.m3u8
-https://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
-https://cctv5alih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
-https://cctvcnch5ca.v.wscdns.com/live/cctv4_2/index.m3u8
-https://cctv5cnch5ca.v.wscdns.com/live/cctv4_2/index.m3u8
-
+http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV-5 体育
 http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
